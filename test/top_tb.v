@@ -16,8 +16,8 @@
 
 // 只保留一项进行测试
 // `define TEST_PROC       1
-// `define TEST_DBG        1
-`define TEST_DBG_PROGBUF        1
+`define TEST_DBG        1
+// `define TEST_DBG_PROGBUF        1
 
 // 选择生成fsdb文件用于verdi查看
 // `define DUMP_FSDB       1
